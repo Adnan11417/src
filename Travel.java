@@ -1,10 +1,11 @@
+
 public class Travel {
 
     public static void main(String[] args){
 
-      Travel MyTravel = new Travel();
-             MyTravel.work();
-             MyTravel.vacation();
+        Travel MyTravel = new Travel();
+        MyTravel.work();
+        MyTravel.vacation();
 
     }
 
@@ -18,4 +19,4 @@ public class Travel {
         System.out.println("traveling for vacation is exciting!");
     }
 
-    }
+}
